@@ -1,8 +1,10 @@
-package oop2;
+package oop.oop1.oop2;
 
 class Stock {
+
     String symbol;
     String name;
+
     double previousClosingPrice;
     double currentPrice;
 

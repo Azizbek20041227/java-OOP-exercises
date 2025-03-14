@@ -1,4 +1,4 @@
-package oop4;
+package oop.oop1.oop4;
 
 class RegularPolygon {
     int n;
