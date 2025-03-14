@@ -1,4 +1,4 @@
-package oop2;
+package oop.oop1.oop2;
 
 public class Main {
     public static void main(String[] args) {

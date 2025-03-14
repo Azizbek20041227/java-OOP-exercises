@@ -1,4 +1,4 @@
-package oop1;
+package oop.oop1;
 
 class Rectangle {
     double width;

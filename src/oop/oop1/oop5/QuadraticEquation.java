@@ -1,4 +1,4 @@
-package oop5;
+package oop.oop1.oop5;
 
 public class QuadraticEquation {
     double a;

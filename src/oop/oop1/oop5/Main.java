@@ -1,4 +1,4 @@
-package oop5;
+package oop.oop1.oop5;
 import java.util.Scanner;
 
 public class Main {
